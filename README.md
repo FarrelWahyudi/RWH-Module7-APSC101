@@ -60,7 +60,7 @@ Click **"Clear Dots"** to reset point selection.
 ## 🧪 Sample Input / Output
 
 ### Input:
-- Image: `map.png`
+- Image: <img src="https://github.com/FarrelWahyudi/RWH-Module7-APSC101/blob/main/map-pointed.png?raw=true">
 - Selected 32 Target Points
 
 ### Console Output:
