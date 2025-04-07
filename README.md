@@ -11,7 +11,7 @@ This Python GUI application allows users to:
   - Elevation difference relative to the base point
 - Display output as a table and plot directional arrows between points
 
-Originally based on an image distance calculator by Muhammad Nabil Alhanif. Modified and enhanced by **Farrel**, a UBC Computer Engineering student, to include elevation mapping, vector visualization, and data export.
+Originally based on an image distance calculator by Muhammad Nabil Alhanif. Modified and enhanced to include elevation mapping, vector visualization, and data export.
 
 ---
 
